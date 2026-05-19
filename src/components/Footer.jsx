@@ -46,7 +46,7 @@ export default function Footer() {
                         title="Copiar e-mail para área de transferência"
                     >
                         <Mail size={18} />
-                        <span className="hidden sm:inline">victor.piana.dev@gmail.com</span>
+                        <span className="">victor.piana.dev@gmail.com</span>
                     </button>
 
                     {/* Divisor Visual */}
