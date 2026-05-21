@@ -9,7 +9,7 @@ export default function Experience() {
     {
       role: "Desenvolvedor Front-end",
       company: "Agência de Tecnologia / House of Hagens", // Substitua pelo nome real da empresa se desejar
-      period: "3 Anos de Atuação", // Ajuste o período conforme seu histórico real
+      period: "4 Anos de Atuação", // Ajuste o período conforme seu histórico real
       description: "Responsável pelo desenvolvimento, manutenção e evolução de interfaces web focadas em alta fidelidade visual, responsividade e performance.",
       keyClients: ["3M", "FINI", "HM Engenharia"],
       achievements: [
